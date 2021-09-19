@@ -8,4 +8,6 @@
 	<li>JDBC Connector for MySQL 8 to connect the MySQL with the Java.</li>
 	<li>A text editor, i suggest VS Code.</li>
 	<li>Command prompt, which you can open by pressing windows button and r and then typing cmd and then hit enter.</li>
+</ul>
+Read <b>Backend.md</b> for backend of the project.
 </p>
