@@ -19,7 +19,7 @@
 		</ol>
 		<li>To store the marks of students in every subject we have to create a table named "results" having following fields :-	</li>
 		<ol>
-			<li>stdId &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; int(8) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; primary key	</li>
+			<li>stdId &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; int(8) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; primary key,foreign key	</li>
 			<li>Hindi &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;int(11)	</li>
 			<li>English &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;int(11)	</li>
 			<li>Maths &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;int(11)	</li>
