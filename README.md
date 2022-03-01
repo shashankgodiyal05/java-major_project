@@ -11,3 +11,7 @@
 </ul>
 Read <b>Backend.md</b> for backend of the project.
 </p>
+<p>
+	I have also created it's GUI version which will be here soon. <br>
+	Thanks
+</p>
